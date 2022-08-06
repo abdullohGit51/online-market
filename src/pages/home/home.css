@@ -1,0 +1,11 @@
+.home .home_p {
+    display: grid;
+    grid-template-columns: repeat(4,auto);
+    grid-gap: 20px;
+    padding: 0 10px;
+ }
+.home .h1 {
+text-align: center;
+width: 100%;
+padding: 40px 0;
+}

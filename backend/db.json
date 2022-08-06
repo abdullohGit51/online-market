@@ -1,0 +1,134 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "price": "18000",
+      "postID": "1",
+      "title": "Banan",
+      "image": "https://cdnn21.img.ria.ru/images/07e5/04/06/1727091745_107:0:1814:1280_1920x0_80_0_0_5ef16f199d0aa7f760c244215d02837c.jpg"
+    },
+    {
+      "id": 2,
+      "price": "12000",
+      "postID": "1",
+      "title": "Koka-Kola",
+      "image": "https://icf.listex.info/med/5d4c4af8-ea53-62cc-253b-78248da48158.jpg"
+    },
+    {
+      "id": 3,
+      "price": "11000",
+      "postID": "1",
+      "title": "Fanta",
+      "image": "https://web.lebazar.uz/resources/product/2020/3/14/medium_1586858421530Fanta15.jpg"
+    },
+    {
+      "id": 4,
+      "price": "8000",
+      "postID": "1",
+      "title": "Yogurt",
+      "image": "https://files.glotr.uz/company/000/016/437/products/2020/06/19/2020-06-19-10-26-33-871646-786e76332457f8487c6b9940c35060c0.png?_=ozbol"
+    },
+    {
+      "id": 5,
+      "price": "18000",
+      "postID": "1",
+      "title": "qulupnay",
+      "image": "https://images.unsplash.com/photo-1601004890684-d8cbf643f5f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1015&q=80"
+    },
+    {
+      "id": 6,
+      "price": "12000",
+      "postID": "1",
+      "title": "ananas",
+      "image": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+    },
+    {
+      "id": 7,
+      "price": "11000",
+      "postID": "1",
+      "title": "olcha",
+      "image": "https://images.unsplash.com/photo-1559181567-c3190ca9959b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80"
+    },
+    {
+      "id": 8,
+      "price": "8000",
+      "postID": "1",
+      "title": "Yogurt",
+      "image": "https://files.glotr.uz/company/000/016/437/products/2020/06/19/2020-06-19-10-26-33-871646-786e76332457f8487c6b9940c35060c0.png?_=ozbol"
+    },
+    {
+      "id": 9,
+      "price": "18000",
+      "postID": "1",
+      "title": "Banan",
+      "image": "https://cdnn21.img.ria.ru/images/07e5/04/06/1727091745_107:0:1814:1280_1920x0_80_0_0_5ef16f199d0aa7f760c244215d02837c.jpg"
+    },
+    {
+      "id": 10,
+      "price": "12000",
+      "postID": "1",
+      "title": "Koka-Kola",
+      "image": "https://icf.listex.info/med/5d4c4af8-ea53-62cc-253b-78248da48158.jpg"
+    },
+    {
+      "id": 11,
+      "price": "11000",
+      "postID": "1",
+      "title": "Fanta",
+      "image": "https://web.lebazar.uz/resources/product/2020/3/14/medium_1586858421530Fanta15.jpg"
+    },
+    {
+      "id": 12,
+      "price": "8000",
+      "postID": "1",
+      "title": "Yogurt",
+      "image": "https://files.glotr.uz/company/000/016/437/products/2020/06/19/2020-06-19-10-26-33-871646-786e76332457f8487c6b9940c35060c0.png?_=ozbol"
+    },
+    {
+      "id": 13,
+      "price": "18000",
+      "postID": "1",
+      "title": "Banan",
+      "image": "https://cdnn21.img.ria.ru/images/07e5/04/06/1727091745_107:0:1814:1280_1920x0_80_0_0_5ef16f199d0aa7f760c244215d02837c.jpg"
+    },
+    {
+      "id": 14,
+      "price": "12000",
+      "postID": "1",
+      "title": "Koka-Kola",
+      "image": "https://icf.listex.info/med/5d4c4af8-ea53-62cc-253b-78248da48158.jpg"
+    },
+    {
+      "id": 15,
+      "price": "11000",
+      "postID": "1",
+      "title": "Fanta",
+      "image": "https://web.lebazar.uz/resources/product/2020/3/14/medium_1586858421530Fanta15.jpg"
+    },
+    {
+      "id": 16,
+      "price": "8000",
+      "postID": "1",
+      "title": "Yogurt",
+      "image": "https://files.glotr.uz/company/000/016/437/products/2020/06/19/2020-06-19-10-26-33-871646-786e76332457f8487c6b9940c35060c0.png?_=ozbol"
+    }
+  ],
+  "shop": [
+    {
+      "mahsulotNam": "adawda",
+      "kg": "wadddfs",
+      "userNam": "adfdadaedd",
+      "tel": "adeddadfed",
+      "location": "addends",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "abdulloh",
+      "email": "a@m.com",
+      "password": "12",
+      "id": 1
+    }
+  ]
+}

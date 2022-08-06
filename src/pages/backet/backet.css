@@ -1,0 +1,28 @@
+.basket_list {
+    display: grid;
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 30px;
+  width: 100%;
+  margin-top: 50px;
+}
+.basket_list .bas_pro {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  border-radius: 30px;
+  height: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.basket_list .bas_pro p {
+  margin-bottom: 10px;
+}
+.basket_list .bas_pro .right p{
+font-size: 30px;
+}
+.basket_list .bas_pro  button{
+    width: 100%;
+    cursor: pointer;
+    height: 30px;
+}

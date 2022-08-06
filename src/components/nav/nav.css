@@ -1,0 +1,26 @@
+nav {
+  background-color: transparent;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 80px;
+  background-color: rgba(0, 0, 0, 0.6);
+  position: sticky;
+  top: 0;
+  z-index: 99;
+}
+
+nav .link {
+  text-decoration: none;
+  font-size: 20px;
+  margin: 0 10px;
+  color: white;
+}
+nav button {
+  background-color: red;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  padding: 10px;
+}
